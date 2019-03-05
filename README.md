@@ -72,4 +72,4 @@ If you need to force a binary overwrite you can do:
 You have probably got outdated driver binaries, by default they are not overwritten if they already exist to speed things up.  You have two options:
 
 - `mvn clean verify -Doverwrite.binaries=true`
-- Delete the `selenium_standalone_binaries` folder in your resources directory
+- Delete the `selenium_standalone_binaries` folder in your resources directory"# selenium-maven-template" 
